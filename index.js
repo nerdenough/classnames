@@ -53,7 +53,5 @@
 		define('classnames', [], function () {
 			return classNames;
 		});
-	} else {
-		window.classNames = classNames;
 	}
 }());
